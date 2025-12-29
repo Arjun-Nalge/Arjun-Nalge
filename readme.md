@@ -1,4 +1,4 @@
-# Hi, I’m Arjun 👋
+# Hi, I’m Arjun Nalge👋
 
 I’m a learner transitioning into DevOps from a non-IT background (Law).  
 I’m focused on building strong fundamentals in cloud computing, Linux, networking, and automation, and applying them through hands-on projects.
