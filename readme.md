@@ -52,22 +52,7 @@ To contribute to high-performing teams, design infrastructure that is resilient 
 | OS & Networking | Linux, Networking fundamentals, Bash scripting |
 
 
-[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)  
-[![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)  
-[![Apache](https://img.shields.io/badge/Apache-F26D21?logo=apache&logoColor=white)](https://httpd.apache.org/)  
-[![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apache-maven&logoColor=white)](https://maven.apache.org/)  
-[![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?logo=python&logoColor=white)](https://gunicorn.org/)  
-[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)  
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)  
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-205081?logo=bitbucket&logoColor=white)](https://bitbucket.org/)  
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://about.gitlab.com/)  
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)](https://www.ansible.com/)  
-[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)  
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)  [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://www.nginx.com/)  [![Apache](https://img.shields.io/badge/Apache-F26D21?logo=apache&logoColor=white)](https://httpd.apache.org/)  [![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?logo=apache-maven&logoColor=white)](https://maven.apache.org/)  [![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?logo=python&logoColor=white)](https://gunicorn.org/)  [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA121?logo=gitlab&logoColor=white)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)  [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/features/actions)  [![Bitbucket](https://img.shields.io/badge/Bitbucket-205081?logo=bitbucket&logoColor=white)](https://bitbucket.org/)  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)  [![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)](https://about.gitlab.com/)  [![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)](https://www.ansible.com/)  [![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)  [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/)  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) 
 
 
 ## 📫 Let’s connect
