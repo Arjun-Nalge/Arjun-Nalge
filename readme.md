@@ -1,6 +1,6 @@
 # Hi, I’m Arjun Nalge 👋
 
-I am a **DevOps Engineer** passionate about building scalable, reliable, and efficient systems. My mission is to bridge the gap between development and operations, streamline workflows, and accelerate software delivery. I focus on automating processes, optimizing infrastructure, and enabling teams to innovate faster.  
+I am a **DevOps and Cloud Enthusiast** passionate about building scalable, reliable, and efficient systems. My mission is to bridge the gap between development and operations, streamline workflows, and accelerate software delivery. I focus on automating processes, optimizing infrastructure, and enabling teams to innovate faster.  
 
 
 ## 💻 Technical Expertise
