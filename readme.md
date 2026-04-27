@@ -1,4 +1,4 @@
-# Hi, I’m Arjun Nalge 👋
+<h1 align="center">Hi, I’m Arjun Nalge 👋</h1>
 
 I am a **DevOps and Cloud Enthusiast** passionate about building scalable, reliable, and efficient systems. My mission is to bridge the gap between development and operations, streamline workflows, and accelerate software delivery. I focus on automating processes, optimizing infrastructure, and enabling teams to innovate faster.  
 
